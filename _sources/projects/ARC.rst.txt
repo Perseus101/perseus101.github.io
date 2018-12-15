@@ -20,3 +20,5 @@ Shimmer
 -------
 
 The Shimmer project is an web application built with Flask and Angular 2.
+The application allows imagery operators to connect to the ground computer, view
+images captured by the plane, and tag regions of interest in those images.
