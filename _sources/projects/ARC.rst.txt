@@ -1,16 +1,22 @@
 Aerial Robotics Club Projects
 =============================
 
-Check out the Aerial Robotics Club `Github organization <https://github.com/ncsuarc>`_ page to see these projects!
+Check out the Aerial Robotics Club `Github organization <https://github.com/ncsuarc>`_
+page to see our open sourced projects!
 
 ADLC
 ----
 
-The `ADLC <https://github.com/ncsuarc/ARC_Vision>`_ project, or Automatic Detection, Localization, and Classification,
+The ADLC project, or Automatic Detection, Localization, and Classification,
 was a project I took on for the club starting in 2016.
 This system loads images taken by the aircraft during flight and processes them,
 then identifies targets on the ground.
-The project is written entirely in Python. It uses OpenCV to process the images initially to find likely regions of interest.
-Those regions of interest are then fed through a series of neural networks created using Tensorflow
-to remove false positives and then identify features about the target.
+The project is written entirely in Python. It uses OpenCV to process the images
+initially to find likely regions of interest. Those regions of interest are then
+fed through a series of neural networks created using Tensorflow to remove false
+positives and then identify features about the target.
 
+Shimmer
+-------
+
+The Shimmer project is an web application built with Flask and Angular 2.

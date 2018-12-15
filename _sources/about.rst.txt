@@ -6,7 +6,7 @@ I am a student at North Carolina State University with a passion for Machine Lea
 Aerial Robotics Club at NC State
 --------------------------------
 | **Member, 2016 - Present**
-| **President, 2017 - Present**
+| **President, 2017 - 2018**
 
 In the Aerial Robotics Club, I work with the software team to maintain the systems of the plane and ground station.
 These include the `Pixhawk autopilot <https://pixhawk.org/>`_, our telemetry server, the flight database, the imagery system,
