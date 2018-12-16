@@ -1,4 +1,14 @@
 Personal Projects
 =================
 
-Check out my `Github <https://github.com/Perseus101>`_ to see some of my projects!
+Check out my `Github page <https://github.com/Perseus101>`_ to see some of my projects!
+
+Snake3D
+-------
+
+Snake3D was a group project I worked on for a class. The project was created
+using `WebGL <https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API>`_
+and `glMatrix <http://glmatrix.net/>`_.
+
+After the project was finished, I converted the website to add support for some
+mobile devices, and published it online `here <https://www.moore.one/Snake3D/>`_.
