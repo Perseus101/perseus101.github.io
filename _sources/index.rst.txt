@@ -1,12 +1,16 @@
 Colin Moore
 ===========
 
+.. image:: images/headshot_2018.png
+   :align: right
+
 .. toctree::
    :maxdepth: 2
 
    projects/index
    about
 
+|
 |
 
 Find me online
