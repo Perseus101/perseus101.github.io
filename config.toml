@@ -1,0 +1,4 @@
+baseURL = "perseus101.github.io/hugo-gh-pages"
+languageCode = "en-us"
+title = "Hugo On Github Pages"
+theme = "ananke"
