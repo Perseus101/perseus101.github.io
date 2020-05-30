@@ -1,4 +1,43 @@
-baseURL = "perseus101.github.io/hugo-gh-pages"
-languageCode = "en-us"
-title = "Hugo On Github Pages"
-theme = "ananke"
+baseurl = "https://www.moore.com"
+title = "Colin Moore"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+
+[params]
+    author = "Colin Moore"
+    info = "Open Source Software Enthusiast"
+    description = "NC State Student"
+    keywords = "blog,developer,personal"
+    avatarurl = "img/headshot_2018_transparent.png"
+    footercontent = "Open Source Software || Data Science & Machine Learning || Distributed Ledgers"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    math = false
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    url = "https://github.com/perseus101/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    url = "https://www.linkedin.com/in/colin-moore-488bbb133/"
+
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url  = "/projects/"
+    weight = 2
