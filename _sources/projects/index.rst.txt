@@ -1,8 +1,0 @@
-My Projects
-===========
-
-.. toctree::
-   :maxdepth: 2
-
-   ARC
-   other
