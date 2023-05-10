@@ -1,7 +1,15 @@
 ---
-title: "Order of The Arrow"
-date: "2011g-05-01"
+title: "Scouts BSA"
 ---
+
+# Troop 438
+
+* **Member, 2009 - Present**
+* **Eagle Scout, 2016**
+
+{{< figure src="/img/eagle-project.jpg" title="Eagle Project, 2016" >}}
+
+# Order of the Arrow
 
 * **Member, 2011 - Present**
 * **Vice Chief of Program, Occoneechee Lodge 104, 2016-17**
