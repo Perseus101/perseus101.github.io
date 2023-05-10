@@ -7,11 +7,11 @@ defaultcontentlanguage = "en"
 
 [params]
     author = "Colin Moore"
-    info = "Open Source Software Enthusiast"
-    description = "NC State Student"
+    info = "NCSU PhD Student @ RobotCodeLab"
+    description = "NC State PhD Student"
     keywords = "blog,developer,personal"
     avatarurl = "img/headshot_2018_transparent.png"
-    footercontent = "Open Source Software || Data Science & Machine Learning || Distributed Ledgers"
+    footercontent = "Robotics || Open Source Software || Reinforcement Learning || LLMs"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
